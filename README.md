@@ -88,14 +88,6 @@ Hierarchical view of the complete design showing module organization.
 
 ![Top Module](https://github.com/soumya-dev-nayak/Carry_Select_Adder_RTL_GDSII/blob/main/pics/top_module.png?raw=true)
 
-## ✨ Key Features
-
-- **Complete RTL-to-GDSII Flow** - End-to-end automated design implementation
-- **Open-Source Toolchain** - Uses industry-compatible free tools
-- **Optimized Architecture** - Carry Select logic minimizes propagation delay
-- **Reproducible Build** - Containerized environment ensures consistent results
-- **Sky130 Compatibility** - Designed for real-world semiconductor fabrication
-
 ## 📊 Design Metrics
 
 - **Technology Node**: 130nm (Sky130)
