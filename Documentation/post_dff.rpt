@@ -1,0 +1,31 @@
+117. Printing statistics.
+
+=== top_module ===
+
+        +----------Local Count, excluding submodules.
+        | 
+      285 wires
+      378 wire bits
+       21 public wires
+      114 public wire bits
+        5 ports
+       98 port bits
+      297 cells
+      178   $_ANDNOT_
+        3   $_AND_
+       16   $_MUX_
+       31   $_NAND_
+        1   $_NOR_
+        4   $_OR_
+       31   $_XNOR_
+       33   $_XOR_
+
+   Area for cell type $_ANDNOT_ is unknown!
+   Area for cell type $_AND_ is unknown!
+   Area for cell type $_MUX_ is unknown!
+   Area for cell type $_NAND_ is unknown!
+   Area for cell type $_NOR_ is unknown!
+   Area for cell type $_OR_ is unknown!
+   Area for cell type $_XNOR_ is unknown!
+   Area for cell type $_XOR_ is unknown!
+
