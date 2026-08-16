@@ -116,10 +116,6 @@ Hierarchical view of the complete design showing module organization.
 - [Yosys Project](http://www.clifford.at/yosys/)
 - [OpenROAD Project](https://openroad.readthedocs.io/)
 
-## 📄 License
-
-[Specify your license - MIT, Apache 2.0, etc.]
-
 ## 👤 Author
 
 **Soumya Dev Nayak**
