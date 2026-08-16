@@ -59,7 +59,7 @@ Carry_Select_Adder_RTL_GDSII/
 ## 🎯 Design Flow
 
 ### 1. **Synthesis**
-RTL verilog is synthesized using Yosys to generate an optimized gate-level netlist.
+RTL verilog is synthesized using Vivado.
 
 ![Vivado Synthesis](https://github.com/soumya-dev-nayak/Carry_Select_Adder_RTL_GDSII/blob/main/pics/Vivado_Synthesized_pic.png?raw=true)
 
